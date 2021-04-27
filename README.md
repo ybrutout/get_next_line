@@ -1,7 +1,11 @@
 # get_next_line
 
-Project get_next_line for 19 School. 
+19S - First projet in the first ring.
+19S - Premier projet du premier cercle.
 
-You will find the detailed subject in the pdf.
+You will find the detailed subject in the PDF.
+Vous pouvez retrouver les détails du projet dans le PDF.
 
-Project Grade : 115%
+# Grade 
+
+First try : 115%
