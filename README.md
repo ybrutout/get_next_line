@@ -1,4 +1,4 @@
-# get_next_line
+# Get_next_line
 
 19S - First projet in the first ring.
 19S - Premier projet du premier cercle.
